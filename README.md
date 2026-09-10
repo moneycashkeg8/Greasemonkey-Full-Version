@@ -236,3 +236,6 @@ This repository serves as the official landing page for Greasemonkey. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Greasemonkey today!**
+
+---
+**Last updated:** 2026-09-10 17:29:02 UTC
