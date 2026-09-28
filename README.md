@@ -238,4 +238,4 @@ This repository serves as the official landing page for Greasemonkey. The softwa
 **Get the most recent version of Greasemonkey today!**
 
 ---
-**Last updated:** 2026-09-28 18:26:22 UTC
+**Last updated:** 2026-09-28 23:41:50 UTC
